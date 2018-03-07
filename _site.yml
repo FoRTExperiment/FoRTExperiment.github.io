@@ -1,0 +1,17 @@
+name: "my-website"
+navbar:
+  title: "FoRTE Experiment"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Collaborators"
+      href: research.html
+
+      
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
+    
+output_dir: "."
