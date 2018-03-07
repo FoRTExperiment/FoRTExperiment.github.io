@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "The Team"
+      href: team.html
     - text: "Collaborators"
       href: collaborators.html
 
