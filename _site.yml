@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Collaborators"
-      href: research.html
+      href: collaborators.html
 
       
 output:
